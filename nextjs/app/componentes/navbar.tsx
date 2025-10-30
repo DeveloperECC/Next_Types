@@ -13,7 +13,7 @@ export default function NavBar() {
 
   const links: LinkItem[] = [
     { href: "/", label: "Inicio" },
-    { href: "/pagina", label: "pagina" },
+    { href: "/pagina", label: "Pagina" },
     { href: "/variables", label: "Variables" },
   ];
 
